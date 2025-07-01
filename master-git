@@ -1,0 +1,18 @@
+this status
+clear
+git remote -v
+ls
+git status
+rm this-is-for-dev
+git status
+git add this-is-for-dev
+git status
+git commit -m this-is-for-dev
+git status
+git push origin de
+lear
+it push origin master
+it push origin dev
+it checkout master
+git push origin master
+history
