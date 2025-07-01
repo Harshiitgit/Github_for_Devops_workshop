@@ -1,0 +1,12 @@
+git init
+git status
+git add
+git commit -m
+rm
+git restore
+git init
+git status
+git add
+git commit -m
+rm
+git restoregit 
